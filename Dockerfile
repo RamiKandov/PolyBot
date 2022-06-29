@@ -6,7 +6,7 @@ WORKDIR /PycharmProjects/PolyBot
 
 
 
-mm
+
 
 ADD requirements.txt .
 ADD utils.py .
